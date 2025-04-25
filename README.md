@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-Name: SANDHIYA R
-Reg NO: 212223240146
+Name: SHAHIN J
+Reg NO: 212223040190
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
